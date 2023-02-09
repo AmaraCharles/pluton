@@ -1,6 +1,6 @@
 HTTrack3.49-2+htsswf+htsjava launched on Tue, 07 Feb 2023 17:12:09 at https://PlutonTechafrica.com/?utm_medium=referral&utm_source=clutch.co +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 PlutonTech
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://novotechafrica.com/?utm_medium=referral&utm_source=clutch.co -O1 "C:\My Web Sites\new  pluton site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://.com/?utm_medium=referral&utm_source=clutch.co -O1 "C:\My Web Sites\new  pluton site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 
 
@@ -14,129 +14,129 @@ PlutonTechPlutonTech
 PlutonTech
 PlutonTech
 PlutonTechPlutonTech
-17:19:38	Error: 	"Not Found" (404) at link httpsPlutonTechechafrica.com/wp-content/themes/shadepro/assets/css/..fontswebfonts/fa-brPlutonTech.eot? (from https://novotechafrica.com/wp-content/themes/shadepro/assets/css/all.min.css?ver=4.7.0)
+17:19:38	Error: 	"Not Found" (404) at link httpsPlutonTechechafrica.com/wp-content/themes/shadepro/assets/css/..fontswebfonts/fa-brPlutonTech.eot? (from https://.com/wp-content/themes/shadepro/assets/css/all.min.css?ver=4.7.0)
 PlutonTechPlutonTech
-17:19:38	Error: 	"Not Found" (404) at link https:PlutonTechchafrica.com/wp-content/themes/shadepro/assets/css/..fontswebfonts/fa-brands-400.svg (from https://novotechafrica.com/wp-content/themes/shadepro/assets/css/all.min.css?ver=4.7.0)
+17:19:38	Error: 	"Not Found" (404) at link https:PlutonTechchafrica.com/wp-content/themes/shadepro/assets/css/..fontswebfonts/fa-brands-400.svg (from https://.com/wp-content/themes/shadepro/assets/css/all.min.css?ver=4.7.0)
 PlutonTechPlutonTech
-17:19:41	Warning: 	Retry after error -4 (Connect ErPlutonTechlink grayic.xyz/wp/shadepro/wp-content/thPlutonTechdepro/assets/img/apply-form-bg-shape.png (from https://novotechafrica.com/wp-content/themes/shadepro/assets/css/shadepro-style.css?ver=3.2.6)
+17:19:41	Warning: 	Retry after error -4 (Connect ErPlutonTechlink grayic.xyz/wp/shadepro/wp-content/thPlutonTechdepro/assets/img/apply-form-bg-shape.png (from https://.com/wp-content/themes/shadepro/assets/css/shadepro-style.css?ver=3.2.6)
 PlutonTech
-17:19:44	Error: 	"Not Found" (404) at link httpPlutonTechtechafrica.com/wp-content/plugPlutonTechepro-helper/assets/css/owl.video.play.png (from https://novotechafrica.com/wp-content/plugins/shadepro-helper/assets/css/owl.carousel.min.css?ver=6.1.1)
+17:19:44	Error: 	"Not Found" (404) at link httpPlutonTechtechafrica.com/wp-content/plugPlutonTechepro-helper/assets/css/owl.video.play.png (from https://.com/wp-content/plugins/shadepro-helper/assets/css/owl.carousel.min.css?ver=6.1.1)
 PlutonTech
-17:19:44	Error: 	"Not Found" (404) at link httpPlutonTechstdevs.com/demos/wp/shadepro/wPlutonTecht/uploads/2020/08/hero1-pattern.png (from https://novotechafrica.com/wp-content/uploads/elementor/css/post-7.css?ver=1659268686)
+17:19:44	Error: 	"Not Found" (404) at link httpPlutonTechstdevs.com/demos/wp/shadepro/wPlutonTecht/uploads/2020/08/hero1-pattern.png (from https://.com/wp-content/uploads/elementor/css/post-7.css?ver=1659268686)
 PlutonTechPlutonTech
-17:19:44	Error: 	"Not Found" (404) at link https:PlutonTechdevs.com/demos/wp/shadepro/wp-content/uploads/2020/08/Group_161.png (from https://novotechafrica.com/wp-content/uploads/elementor/css/post-7.css?ver=1659268686)
+17:19:44	Error: 	"Not Found" (404) at link https:PlutonTechdevs.com/demos/wp/shadepro/wp-content/uploads/2020/08/Group_161.png (from https://.com/wp-content/uploads/elementor/css/post-7.css?ver=1659268686)
 PlutonTechPlutonTech
 17:19:52	Warning: 	Moved Permanently for https://noPlutonTechrica.com/?p=12112PlutonTech
 PlutonTech
 17:19:52	Warning: 	File has moved from https://PlutonTechafrica.com/?p=12112 to https://PlutonTechafrica.com/service/software-development/
 PlutonTechPlutonTech
-17:20:11	Error: 	"Not Found" (404) at link test.nPlutonTechfrica.com/wp-content/uploads/2020/12/mr-dare-osikoya.jpeg (from https://novotechafrica.com/service/software-development/)
+17:20:11	Error: 	"Not Found" (404) at link test.nPlutonTechfrica.com/wp-content/uploads/2020/12/mr-dare-osikoya.jpeg (from https://.com/service/software-development/)
 PlutonTechPlutonTech
-17:20:11	Error: 	"Not Found" (404) at link test.nPlutonTechfrica.com/wp-content/uploads/2020/12/chidalu_ekeh.jpeg (from https://novotechafrica.com/service/software-development/)
+17:20:11	Error: 	"Not Found" (404) at link test.nPlutonTechfrica.com/wp-content/uploads/2020/12/chidalu_ekeh.jpeg (from https://.com/service/software-development/)
 PlutonTechPlutonTech
 17:20:13	Warning: 	Moved Permanently for https://noPlutonTechrica.com/?p=4278PlutonTech
 PlutonTech
 17:20:13	Warning: 	File has moved from https://PlutonTechafrica.com/?p=4278 to https://nPlutonTechfrica.com/service/product-design/
 PlutonTechPlutonTech
-17:20:13	Error: 	"Not Found" (404) at link https:PlutonTechchafrica.com/service/contact (from https://novotechafrica.com/service/product-design)
+17:20:13	Error: 	"Not Found" (404) at link https:PlutonTechchafrica.com/service/contact (from https://.com/service/product-design)
 PlutonTechPlutonTech
 17:20:13	Warning: 	Moved Permanently for https://noPlutonTechrica.com/?p=4277PlutonTech
 PlutonTech
 17:20:13	Warning: 	File has moved from https://PlutonTechafrica.com/?p=4277 to https://PlutonTechafrica.com/service/product-strategy/
 PlutonTech
-17:20:14	Warning: 	Moved Permanently for https://novotechafrica.com/?p=4275PlutonTech
+17:20:14	Warning: 	Moved Permanently for https://.com/?p=4275PlutonTech
 PlutonTech
-17:20:14	Warning: 	File has moved from https://novotechafrica.com/?p=4275 to https://novotechafrica.com/service/enterprise-solutions/PlutonTech
+17:20:14	Warning: 	File has moved from https://.com/?p=4275 to https://.com/service/enterprise-solutions/PlutonTech
 PlutonTechPlutonTech
 17:20:14	Error: 	"Not Found" (404) at link https://PlutonTechafrica.com/service/enterprise-solutions/contact (from httpPlutonTechtechafrica.com/service/enterprise-solutions/)
 PlutonTech
 17:20:14	Warning: 	Moved Permanently for https:PlutonTechchafrica.com/?p=15859PlutonTech
 PlutonTechPlutonTech
-17:20:14	Warning: 	File has moved from https://noPlutonTechrica.com/?p=15859 to https://novotechafrica.com/portfolio/novopermit/
+17:20:14	Warning: 	File has moved from https://noPlutonTechrica.com/?p=15859 to https://.com/portfolio/novopermit/
 PlutonTechPlutonTech
-17:20:15	Error: 	"Not Found" (404) at link https://PlutonTechafrica.com/portfolio/novopermit/contact (from https://novotechafrica.com/pPlutonTech/novopermit/)
+17:20:15	Error: 	"Not Found" (404) at link https://PlutonTechafrica.com/portfolio/novopermit/contact (from https://.com/pPlutonTech/novopermit/)
 PlutonTech
 17:20:25	Warning: 	Moved Permanently for https:PlutonTechchafrica.com/?p=15914PlutonTech
 PlutonTechPlutonTech
-17:20:25	Warning: 	File has moved from https://noPlutonTechrica.com/?p=15914 to https://novotechafrica.com/portfolio/habitue/
+17:20:25	Warning: 	File has moved from https://noPlutonTechrica.com/?p=15914 to https://.com/portfolio/habitue/
 PlutonTechPlutonTech
 17:20:25	Error: 	"Not Found" (404) at link https://PlutonTechafrica.com/portfolio/habitue/contact (from https://novotechafrPlutonTechportfolio/habitue/)
 PlutonTech
 17:20:38	Warning: 	Moved Permanently for https:PlutonTechchafrica.com/?p=291PlutonTech
 PlutonTechPlutonTech
-17:20:38	Warning: 	File has moved from https://noPlutonTechrica.com/?p=291 to https://novotechafrica.com/about-us/
+17:20:38	Warning: 	File has moved from https://noPlutonTechrica.com/?p=291 to https://.com/about-us/
 PlutonTechPlutonTech
 17:20:39	Warning: 	Moved Permanently for https://noPlutonTechrica.com/?p=330PlutonTech
 PlutonTech
-17:20:39	Warning: 	File has moved from https://novotechafrica.com/?p=330 to https://novotechafrica.com/contact/
+17:20:39	Warning: 	File has moved from https://.com/?p=330 to https://.com/contact/
 
-17:20:39	Error: 	"Not Found" (404) at link https://novotechafrica.com/wp-content/uploads/wpcf7_captcha/2283739616.png (from https://novotechafrica.com/contact/)
+17:20:39	Error: 	"Not Found" (404) at link https://.com/wp-content/uploads/wpcf7_captcha/2283739616.png (from https://.com/contact/)
 
-17:20:39	Warning: 	Moved Permanently for https://novotechafrica.com/?p=16188
+17:20:39	Warning: 	Moved Permanently for https://.com/?p=16188
 
-17:20:39	Warning: 	File has moved from https://novotechafrica.com/?p=16188 to https://novotechafrica.com/portfolio/tdafrica/
+17:20:39	Warning: 	File has moved from https://.com/?p=16188 to https://.com/portfolio/tdafrica/
 
-17:20:39	Error: 	"Not Found" (404) at link https://novotechafrica.com/portfolio/tdafrica/contact (from https://novotechafrica.com/portfolio/tdafrica/)
+17:20:39	Error: 	"Not Found" (404) at link https://.com/portfolio/tdafrica/contact (from https://.com/portfolio/tdafrica/)
 
-17:21:12	Warning: 	Moved Permanently for https://novotechafrica.com/?p=16551
+17:21:12	Warning: 	Moved Permanently for https://.com/?p=16551
 
-17:21:12	Warning: 	File has moved from https://novotechafrica.com/?p=16551 to https://novotechafrica.com/portfolio/imo-house-of-assembly/
+17:21:12	Warning: 	File has moved from https://.com/?p=16551 to https://.com/portfolio/imo-house-of-assembly/
 
-17:21:13	Error: 	"Not Found" (404) at link https://novotechafrica.com/portfolio/imo-house-of-assembly/contact (from https://novotechafrica.com/portfolio/imo-house-of-assembly/)
+17:21:13	Error: 	"Not Found" (404) at link https://.com/portfolio/imo-house-of-assembly/contact (from https://.com/portfolio/imo-house-of-assembly/)
 
-17:21:13	Warning: 	Moved Permanently for https://novotechafrica.com/?p=9206
+17:21:13	Warning: 	Moved Permanently for https://.com/?p=9206
 
-17:21:13	Warning: 	File has moved from https://novotechafrica.com/?p=9206 to https://novotechafrica.com/portfolio/
+17:21:13	Warning: 	File has moved from https://.com/?p=9206 to https://.com/portfolio/
 
-17:21:52	Error: 	"Not Found" (404) at link https://finestdevs.com/demos/wp/shadepro/wp-content/uploads/2020/09/3-layers.png (from https://novotechafrica.com/wp-content/uploads/elementor/css/post-14810.css?ver=1659268686)
+17:21:52	Error: 	"Not Found" (404) at link https://finestdevs.com/demos/wp/shadepro/wp-content/uploads/2020/09/3-layers.png (from https://.com/wp-content/uploads/elementor/css/post-14810.css?ver=1659268686)
 
-17:21:52	Error: 	"Not Found" (404) at link https://finestdevs.com/demos/wp/shadepro/wp-content/uploads/2021/05/Footer-bg.png (from https://novotechafrica.com/wp-content/uploads/elementor/css/post-15089.css?ver=1659268688)
+17:21:52	Error: 	"Not Found" (404) at link https://finestdevs.com/demos/wp/shadepro/wp-content/uploads/2021/05/Footer-bg.png (from https://.com/wp-content/uploads/elementor/css/post-15089.css?ver=1659268688)
 
-17:21:52	Error: 	"Not Found" (404) at link https://finestdevs.com/demos/wp/shadepro/wp-content/uploads/2020/10/roduct-landing-bottom-bg.png (from https://novotechafrica.com/wp-content/uploads/elementor/css/post-5922.css?ver=1659268689)
+17:21:52	Error: 	"Not Found" (404) at link https://finestdevs.com/demos/wp/shadepro/wp-content/uploads/2020/10/roduct-landing-bottom-bg.png (from https://.com/wp-content/uploads/elementor/css/post-5922.css?ver=1659268689)
 
-17:21:52	Warning: 	Retry after error -4 (Connect Error) at link grayic.xyz/wp/shadepro/wp-content/themes/shadepro/assets/img/apply-form-bg-shape.png (from https://novotechafrica.com/wp-content/themes/shadepro/assets/css/shadepro-style.css?ver=3.2.6)
+17:21:52	Warning: 	Retry after error -4 (Connect Error) at link grayic.xyz/wp/shadepro/wp-content/themes/shadepro/assets/img/apply-form-bg-shape.png (from https://.com/wp-content/themes/shadepro/assets/css/shadepro-style.css?ver=3.2.6)
 
-17:21:52	Error: 	"Not Found" (404) at link https://novotechafrica.com/service/product-design/contact (from https://novotechafrica.com/service/product-design/)
+17:21:52	Error: 	"Not Found" (404) at link https://.com/service/product-design/contact (from https://.com/service/product-design/)
 
-17:21:52	Error: 	"Not Found" (404) at link https://novotechafrica.com/service/product-strategy/contact (from https://novotechafrica.com/service/product-strategy/)
+17:21:52	Error: 	"Not Found" (404) at link https://.com/service/product-strategy/contact (from https://.com/service/product-strategy/)
 
-17:21:55	Warning: 	Moved Permanently for https://novotechafrica.com/?p=10654
+17:21:55	Warning: 	Moved Permanently for https://.com/?p=10654
 
-17:21:55	Warning: 	File has moved from https://novotechafrica.com/?p=10654 to https://novotechafrica.com/portfolio/novox/
+17:21:55	Warning: 	File has moved from https://.com/?p=10654 to https://.com/portfolio/novox/
 
-17:21:55	Error: 	"Not Found" (404) at link https://novotechafrica.com/portfolio/novox/contact (from https://novotechafrica.com/portfolio/novox/)
+17:21:55	Error: 	"Not Found" (404) at link https://.com/portfolio/novox/contact (from https://.com/portfolio/novox/)
 
-17:21:55	Warning: 	Moved Permanently for https://novotechafrica.com/?p=16484
+17:21:55	Warning: 	Moved Permanently for https://.com/?p=16484
 
-17:21:55	Warning: 	File has moved from https://novotechafrica.com/?p=16484 to https://novotechafrica.com/portfolio/tilden-facility-management-app/
+17:21:55	Warning: 	File has moved from https://.com/?p=16484 to https://.com/portfolio/tilden-facility-management-app/
 
-17:21:56	Error: 	"Not Found" (404) at link https://novotechafrica.com/portfolio/tilden-facility-management-app/contact (from https://novotechafrica.com/portfolio/tilden-facility-management-app/)
+17:21:56	Error: 	"Not Found" (404) at link https://.com/portfolio/tilden-facility-management-app/contact (from https://.com/portfolio/tilden-facility-management-app/)
 
-17:21:56	Warning: 	Moved Permanently for https://novotechafrica.com/?p=16198
+17:21:56	Warning: 	Moved Permanently for https://.com/?p=16198
 
-17:21:56	Warning: 	File has moved from https://novotechafrica.com/?p=16198 to https://novotechafrica.com/portfolio/tech-experience-centre/
+17:21:56	Warning: 	File has moved from https://.com/?p=16198 to https://.com/portfolio/tech-experience-centre/
 
-17:21:57	Error: 	"Not Found" (404) at link https://novotechafrica.com/portfolio/tech-experience-centre/contact (from https://novotechafrica.com/portfolio/tech-experience-centre/)
+17:21:57	Error: 	"Not Found" (404) at link https://.com/portfolio/tech-experience-centre/contact (from https://.com/portfolio/tech-experience-centre/)
 
-17:21:58	Warning: 	Moved Permanently for https://novotechafrica.com/?p=16460
+17:21:58	Warning: 	Moved Permanently for https://.com/?p=16460
 
-17:21:58	Warning: 	File has moved from https://novotechafrica.com/?p=16460 to https://novotechafrica.com/portfolio/it-custom-solution/
+17:21:58	Warning: 	File has moved from https://.com/?p=16460 to https://.com/portfolio/it-custom-solution/
 
-17:21:58	Error: 	"Not Found" (404) at link https://novotechafrica.com/portfolio/it-custom-solution/contact (from https://novotechafrica.com/portfolio/it-custom-solution/)
+17:21:58	Error: 	"Not Found" (404) at link https://.com/portfolio/it-custom-solution/contact (from https://.com/portfolio/it-custom-solution/)
 
-17:21:58	Warning: 	Moved Permanently for https://novotechafrica.com/?p=16493
+17:21:58	Warning: 	Moved Permanently for https://.com/?p=16493
 
-17:21:58	Warning: 	File has moved from https://novotechafrica.com/?p=16493 to https://novotechafrica.com/portfolio/task-systems/
+17:21:58	Warning: 	File has moved from https://.com/?p=16493 to https://.com/portfolio/task-systems/
 
-17:21:58	Error: 	"Not Found" (404) at link https://novotechafrica.com/portfolio/task-systems/contact (from https://novotechafrica.com/portfolio/task-systems/)
+17:21:58	Error: 	"Not Found" (404) at link https://.com/portfolio/task-systems/contact (from https://.com/portfolio/task-systems/)
 
-17:22:05	Warning: 	Moved Permanently for https://novotechafrica.com/?p=16535
+17:22:05	Warning: 	Moved Permanently for https://.com/?p=16535
 
-17:22:05	Warning: 	File has moved from https://novotechafrica.com/?p=16535 to https://novotechafrica.com/portfolio/meddirect-africa/
+17:22:05	Warning: 	File has moved from https://.com/?p=16535 to https://.com/portfolio/meddirect-africa/
 
-17:22:05	Error: 	"Not Found" (404) at link https://novotechafrica.com/portfolio/meddirect-africa/contact (from https://novotechafrica.com/portfolio/meddirect-africa/)
+17:22:05	Error: 	"Not Found" (404) at link https://.com/portfolio/meddirect-africa/contact (from https://.com/portfolio/meddirect-africa/)
 
-17:22:05	Error: 	"Connect Error" (-4) after 2 retries at link grayic.xyz/wp/shadepro/wp-content/themes/shadepro/assets/img/apply-form-bg-shape.png (from https://novotechafrica.com/wp-content/themes/shadepro/assets/css/shadepro-style.css?ver=3.2.6)
+17:22:05	Error: 	"Connect Error" (-4) after 2 retries at link grayic.xyz/wp/shadepro/wp-content/themes/shadepro/assets/img/apply-form-bg-shape.png (from https://.com/wp-content/themes/shadepro/assets/css/shadepro-style.css?ver=3.2.6)
 
 
 
