@@ -273,7 +273,7 @@ span.footer-note:hover {
 <div class="elementor-widget-container">
 <div class="ama-site-logo content-align-left">
 <a href="../index.html" class="ama-site-logo-wrap">
-<span class='site-logo'><img decoding="async" src="../wp-content/uploads/2021/09/novo-black-23.png" alt="Novotech" class="navbar-brand__regular dark-logo"></span> </a>
+<span class='site-logo'> <span class="loggo"><b>PlutonTech</b></span></span> </a>
 </div>
 </div>
 </div>
